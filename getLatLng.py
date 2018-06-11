@@ -1,6 +1,5 @@
 import googlemaps
 import json
-from datetime import datetime
 
 class GetLat:
     def getLat(self,address):
